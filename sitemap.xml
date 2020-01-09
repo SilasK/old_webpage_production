@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/unused_widgets/skills/</loc>
+  </url>
+  
+  <url>
+    <loc>/unused_widgets/experience/</loc>
+  </url>
+  
+  <url>
+    <loc>/unused_widgets/accomplishments/</loc>
+  </url>
+  
+  <url>
+    <loc>/unused_widgets/people/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/atlas/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bioinformatics/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/bioinformatics/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/evgeny-m.-zdobnov/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/joseph-brown/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lee-ann-mccue/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/metagenome/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/metagenome-atlas/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/mirko-trajkovski/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/silas-kieser/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/snakemake/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/metagenome-atlas/</loc>
+    <lastmod>2017-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/metagenomics/</loc>
+    <lastmod>2017-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/programming/</loc>
+    <lastmod>2017-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2017-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/annick-mercenier/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/nestlemd/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/bernard-berger/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/bertrand-betrisey/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/coralie-fournier/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/francis-foata/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/harald-brussow/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/human-gut-microbiota/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/human-gut-microbiota/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/mohammed-j.-chisti/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nadine-porta/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/nestle/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/olga-sakwinska/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/patrick-descombes/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/phages/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/shafiqul-a.-sarker/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/shamima-sultana/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/shoeb-b.-islam/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/apologetics/</loc>
+    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/apologetics/</loc>
+    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/nestle/</loc>
+    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/fr/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/fr/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+  </url>
+  
+  <url>
+    <loc>/unused_widgets/</loc>
+  </url>
+  
+</urlset>
