@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nestlé | Academic</title>
-    <link>/tags/nestle/</link>
-      <atom:link href="/tags/nestle/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://silask.github.io/tags/nestle/</link>
+      <atom:link href="https://silask.github.io/tags/nestle/index.xml" rel="self" type="application/rss+xml" />
     <description>Nestlé</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://silask.github.io/img/icon-192.png</url>
       <title>Nestlé</title>
-      <link>/tags/nestle/</link>
+      <link>https://silask.github.io/tags/nestle/</link>
     </image>
     
     <item>
       <title>Antibiotic Treatment Leads to Fecal Escherichia coli and Coliphage Expansion in Severely Malnourished Diarrhea Patients</title>
-      <link>/publication/nestlemd/</link>
+      <link>https://silask.github.io/publication/nestlemd/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/nestlemd/</guid>
+      <guid>https://silask.github.io/publication/nestlemd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internship at Nestlé research</title>
-      <link>/project/nestle/</link>
+      <link>https://silask.github.io/project/nestle/</link>
       <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/project/nestle/</guid>
+      <guid>https://silask.github.io/project/nestle/</guid>
       <description>&lt;p&gt;Nestlé Research Center
 Feb 2016 – Feb 2017&lt;/p&gt;
 

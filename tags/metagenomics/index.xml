@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>metagenomics | Academic</title>
-    <link>/tags/metagenomics/</link>
-      <atom:link href="/tags/metagenomics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://silask.github.io/tags/metagenomics/</link>
+      <atom:link href="https://silask.github.io/tags/metagenomics/index.xml" rel="self" type="application/rss+xml" />
     <description>metagenomics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 30 Dec 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://silask.github.io/img/icon-192.png</url>
       <title>metagenomics</title>
-      <link>/tags/metagenomics/</link>
+      <link>https://silask.github.io/tags/metagenomics/</link>
     </image>
     
     <item>
       <title>metagenome-atlas</title>
-      <link>/project/metagenome-atlas/</link>
+      <link>https://silask.github.io/project/metagenome-atlas/</link>
       <pubDate>Sat, 30 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/project/metagenome-atlas/</guid>
+      <guid>https://silask.github.io/project/metagenome-atlas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Antibiotic Treatment Leads to Fecal Escherichia coli and Coliphage Expansion in Severely Malnourished Diarrhea Patients</title>
-      <link>/publication/nestlemd/</link>
+      <link>https://silask.github.io/publication/nestlemd/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/nestlemd/</guid>
+      <guid>https://silask.github.io/publication/nestlemd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internship at Nestlé research</title>
-      <link>/project/nestle/</link>
+      <link>https://silask.github.io/project/nestle/</link>
       <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/project/nestle/</guid>
+      <guid>https://silask.github.io/project/nestle/</guid>
       <description>&lt;p&gt;Nestlé Research Center
 Feb 2016 – Feb 2017&lt;/p&gt;
 

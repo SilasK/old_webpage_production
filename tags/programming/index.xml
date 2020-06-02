@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>programming | Academic</title>
-    <link>/tags/programming/</link>
-      <atom:link href="/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://silask.github.io/tags/programming/</link>
+      <atom:link href="https://silask.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <description>programming</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 30 Dec 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://silask.github.io/img/icon-192.png</url>
       <title>programming</title>
-      <link>/tags/programming/</link>
+      <link>https://silask.github.io/tags/programming/</link>
     </image>
     
     <item>
       <title>metagenome-atlas</title>
-      <link>/project/metagenome-atlas/</link>
+      <link>https://silask.github.io/project/metagenome-atlas/</link>
       <pubDate>Sat, 30 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/project/metagenome-atlas/</guid>
+      <guid>https://silask.github.io/project/metagenome-atlas/</guid>
       <description></description>
     </item>
     

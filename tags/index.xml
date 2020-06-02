@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Academic</title>
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://silask.github.io/tags/</link>
+      <atom:link href="https://silask.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Oct 2019 20:03:06 +0200</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://silask.github.io/img/icon-192.png</url>
       <title>Tags</title>
-      <link>/tags/</link>
+      <link>https://silask.github.io/tags/</link>
     </image>
     
     <item>
       <title>bioinformatics</title>
-      <link>/tags/bioinformatics/</link>
+      <link>https://silask.github.io/tags/bioinformatics/</link>
       <pubDate>Mon, 21 Oct 2019 20:03:06 +0200</pubDate>
-      <guid>/tags/bioinformatics/</guid>
+      <guid>https://silask.github.io/tags/bioinformatics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>metagenome</title>
-      <link>/tags/metagenome/</link>
+      <link>https://silask.github.io/tags/metagenome/</link>
       <pubDate>Mon, 21 Oct 2019 20:03:06 +0200</pubDate>
-      <guid>/tags/metagenome/</guid>
+      <guid>https://silask.github.io/tags/metagenome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>metagenome-atlas</title>
-      <link>/tags/metagenome-atlas/</link>
+      <link>https://silask.github.io/tags/metagenome-atlas/</link>
       <pubDate>Mon, 21 Oct 2019 20:03:06 +0200</pubDate>
-      <guid>/tags/metagenome-atlas/</guid>
+      <guid>https://silask.github.io/tags/metagenome-atlas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>snakemake</title>
-      <link>/tags/snakemake/</link>
+      <link>https://silask.github.io/tags/snakemake/</link>
       <pubDate>Mon, 21 Oct 2019 20:03:06 +0200</pubDate>
-      <guid>/tags/snakemake/</guid>
+      <guid>https://silask.github.io/tags/snakemake/</guid>
       <description></description>
     </item>
     
     <item>
       <title>metagenomics</title>
-      <link>/tags/metagenomics/</link>
+      <link>https://silask.github.io/tags/metagenomics/</link>
       <pubDate>Sat, 30 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/metagenomics/</guid>
+      <guid>https://silask.github.io/tags/metagenomics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>programming</title>
-      <link>/tags/programming/</link>
+      <link>https://silask.github.io/tags/programming/</link>
       <pubDate>Sat, 30 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/programming/</guid>
+      <guid>https://silask.github.io/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>human gut microbiota</title>
-      <link>/tags/human-gut-microbiota/</link>
+      <link>https://silask.github.io/tags/human-gut-microbiota/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/human-gut-microbiota/</guid>
+      <guid>https://silask.github.io/tags/human-gut-microbiota/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nestlé</title>
-      <link>/tags/nestle/</link>
+      <link>https://silask.github.io/tags/nestle/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/nestle/</guid>
+      <guid>https://silask.github.io/tags/nestle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>phages</title>
-      <link>/tags/phages/</link>
+      <link>https://silask.github.io/tags/phages/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/phages/</guid>
+      <guid>https://silask.github.io/tags/phages/</guid>
       <description></description>
     </item>
     
     <item>
       <title>apologetics</title>
-      <link>/tags/apologetics/</link>
+      <link>https://silask.github.io/tags/apologetics/</link>
       <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/apologetics/</guid>
+      <guid>https://silask.github.io/tags/apologetics/</guid>
       <description></description>
     </item>
     

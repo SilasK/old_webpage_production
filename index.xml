@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://silask.github.io/</link>
+      <atom:link href="https://silask.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Oct 2019 20:03:06 +0200</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://silask.github.io/img/icon-192.png</url>
       <title>Academic</title>
-      <link>/</link>
+      <link>https://silask.github.io/</link>
     </image>
     
     <item>
       <title>Skills</title>
-      <link>/unused_widgets/skills/</link>
+      <link>https://silask.github.io/unused_widgets/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/unused_widgets/skills/</guid>
+      <guid>https://silask.github.io/unused_widgets/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>/unused_widgets/experience/</link>
+      <link>https://silask.github.io/unused_widgets/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/unused_widgets/experience/</guid>
+      <guid>https://silask.github.io/unused_widgets/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accomplish&amp;shy;ments</title>
-      <link>/unused_widgets/accomplishments/</link>
+      <link>https://silask.github.io/unused_widgets/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/unused_widgets/accomplishments/</guid>
+      <guid>https://silask.github.io/unused_widgets/accomplishments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meet the Team</title>
-      <link>/unused_widgets/people/</link>
+      <link>https://silask.github.io/unused_widgets/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/unused_widgets/people/</guid>
+      <guid>https://silask.github.io/unused_widgets/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ATLAS: a Snakemake workflow for assembly, annotation, and genomic binning of metagenome sequence data</title>
-      <link>/publication/atlas/</link>
+      <link>https://silask.github.io/publication/atlas/</link>
       <pubDate>Mon, 21 Oct 2019 20:03:06 +0200</pubDate>
-      <guid>/publication/atlas/</guid>
+      <guid>https://silask.github.io/publication/atlas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>metagenome-atlas</title>
-      <link>/project/metagenome-atlas/</link>
+      <link>https://silask.github.io/project/metagenome-atlas/</link>
       <pubDate>Sat, 30 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/project/metagenome-atlas/</guid>
+      <guid>https://silask.github.io/project/metagenome-atlas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Antibiotic Treatment Leads to Fecal Escherichia coli and Coliphage Expansion in Severely Malnourished Diarrhea Patients</title>
-      <link>/publication/nestlemd/</link>
+      <link>https://silask.github.io/publication/nestlemd/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/nestlemd/</guid>
+      <guid>https://silask.github.io/publication/nestlemd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Apologetics</title>
-      <link>/project/apologetics/</link>
+      <link>https://silask.github.io/project/apologetics/</link>
       <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/project/apologetics/</guid>
+      <guid>https://silask.github.io/project/apologetics/</guid>
       <description>&lt;!-- http://www.gbeu.ch/fileadmin/user_upload/dateien/Dialogue_et_Verite/Lemaitre_Silas_Kieser__2_.pdf
 --&gt;
 </description>
@@ -80,9 +80,9 @@
     
     <item>
       <title>Internship at Nestlé research</title>
-      <link>/project/nestle/</link>
+      <link>https://silask.github.io/project/nestle/</link>
       <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/project/nestle/</guid>
+      <guid>https://silask.github.io/project/nestle/</guid>
       <description>&lt;p&gt;Nestlé Research Center
 Feb 2016 – Feb 2017&lt;/p&gt;
 
