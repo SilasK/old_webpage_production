@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Silas Kieser&#39;s academic page</title>
-    <link>https://silask.netlify.app/publication/</link>
-      <atom:link href="https://silask.netlify.app/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://silask.github.io/publication/</link>
+      <atom:link href="https://silask.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Silas Kieser</copyright><lastBuildDate>Mon, 21 Oct 2019 20:03:06 +0200</lastBuildDate>
     <image>
-      <url>https://silask.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://silask.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>https://silask.netlify.app/publication/</link>
+      <link>https://silask.github.io/publication/</link>
     </image>
     
     <item>
       <title>ATLAS: a Snakemake workflow for assembly, annotation, and genomic binning of metagenome sequence data</title>
-      <link>https://silask.netlify.app/publication/atlas/</link>
+      <link>https://silask.github.io/publication/atlas/</link>
       <pubDate>Mon, 21 Oct 2019 20:03:06 +0200</pubDate>
-      <guid>https://silask.netlify.app/publication/atlas/</guid>
+      <guid>https://silask.github.io/publication/atlas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Antibiotic Treatment Leads to Fecal Escherichia coli and Coliphage Expansion in Severely Malnourished Diarrhea Patients</title>
-      <link>https://silask.netlify.app/publication/nestlemd/</link>
+      <link>https://silask.github.io/publication/nestlemd/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://silask.netlify.app/publication/nestlemd/</guid>
+      <guid>https://silask.github.io/publication/nestlemd/</guid>
       <description></description>
     </item>
     
