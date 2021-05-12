@@ -1,78 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>https://silask.github.io/</link>
-      <atom:link href="https://silask.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Oct 2019 20:03:06 +0200</lastBuildDate>
+    <title>Silas Kieser&#39;s academic page</title>
+    <link>https://silask.netlify.app/</link>
+      <atom:link href="https://silask.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <description>Silas Kieser&#39;s academic page</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Silas Kieser</copyright><lastBuildDate>Wed, 12 May 2021 10:48:48 +0200</lastBuildDate>
     <image>
-      <url>https://silask.github.io/img/icon-192.png</url>
-      <title>Academic</title>
-      <link>https://silask.github.io/</link>
+      <url>https://silask.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Silas Kieser&#39;s academic page</title>
+      <link>https://silask.netlify.app/</link>
     </image>
     
     <item>
-      <title>Skills</title>
-      <link>https://silask.github.io/unused_widgets/skills/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://silask.github.io/unused_widgets/skills/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Experience</title>
-      <link>https://silask.github.io/unused_widgets/experience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://silask.github.io/unused_widgets/experience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Accomplish&amp;shy;ments</title>
-      <link>https://silask.github.io/unused_widgets/accomplishments/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://silask.github.io/unused_widgets/accomplishments/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Meet the Team</title>
-      <link>https://silask.github.io/unused_widgets/people/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://silask.github.io/unused_widgets/people/</guid>
-      <description></description>
+      <title>It is finished!</title>
+      <link>https://silask.netlify.app/post/phd-thesis/</link>
+      <pubDate>Wed, 12 May 2021 10:48:48 +0200</pubDate>
+      <guid>https://silask.netlify.app/post/phd-thesis/</guid>
+      <description>&lt;p&gt;I finished writing my PhD Thesis with the title:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Computational approaches for a healthier microbiome&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;Thesis_Kieser_V1_with_line_numbers.pdf&#34;&gt;Here is the PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you have any comments please e-mail or write me. I&amp;rsquo;m happy to take them into account.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;TOC.png&#34; alt=&#34;TOC&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I made a small graphic how many words I wrote over time. The chapters consist mainly of the publications, therefore I didn&amp;rsquo;t took them into account.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Wordcounts.png&#34; alt=&#34;Words over time&#34;&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>ATLAS: a Snakemake workflow for assembly, annotation, and genomic binning of metagenome sequence data</title>
-      <link>https://silask.github.io/publication/atlas/</link>
+      <link>https://silask.netlify.app/publication/atlas/</link>
       <pubDate>Mon, 21 Oct 2019 20:03:06 +0200</pubDate>
-      <guid>https://silask.github.io/publication/atlas/</guid>
+      <guid>https://silask.netlify.app/publication/atlas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>metagenome-atlas</title>
-      <link>https://silask.github.io/project/metagenome-atlas/</link>
+      <link>https://silask.netlify.app/projects/metagenome-atlas/</link>
       <pubDate>Sat, 30 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://silask.github.io/project/metagenome-atlas/</guid>
+      <guid>https://silask.netlify.app/projects/metagenome-atlas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Antibiotic Treatment Leads to Fecal Escherichia coli and Coliphage Expansion in Severely Malnourished Diarrhea Patients</title>
-      <link>https://silask.github.io/publication/nestlemd/</link>
+      <link>https://silask.netlify.app/publication/nestlemd/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://silask.github.io/publication/nestlemd/</guid>
+      <guid>https://silask.netlify.app/publication/nestlemd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Apologetics</title>
-      <link>https://silask.github.io/project/apologetics/</link>
+      <link>https://silask.netlify.app/projects/apologetics/</link>
       <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://silask.github.io/project/apologetics/</guid>
+      <guid>https://silask.netlify.app/projects/apologetics/</guid>
       <description>&lt;!-- http://www.gbeu.ch/fileadmin/user_upload/dateien/Dialogue_et_Verite/Lemaitre_Silas_Kieser__2_.pdf
 --&gt;
 </description>
@@ -80,17 +64,14 @@
     
     <item>
       <title>Internship at Nestlé research</title>
-      <link>https://silask.github.io/project/nestle/</link>
+      <link>https://silask.netlify.app/projects/nestle/</link>
       <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://silask.github.io/project/nestle/</guid>
+      <guid>https://silask.netlify.app/projects/nestle/</guid>
       <description>&lt;p&gt;Nestlé Research Center
 Feb 2016 – Feb 2017&lt;/p&gt;
-
-&lt;p&gt;This Internship allowed me to learn from experts about children gut microbiota. My job was to build a analysis pipeline for metagenomics analysis.&lt;br /&gt;
+&lt;p&gt;This Internship allowed me to learn from experts about children gut microbiota. My job was to build a analysis pipeline for metagenomics analysis.&lt;br&gt;
 I&amp;rsquo;d like to thank especially Bernard Berger, Olga Sakwinska and Harald Brüssow for their supervision.&lt;/p&gt;
-
 &lt;p&gt;Achievements:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Implementation of metagenomics analysis pipeline&lt;/li&gt;
 &lt;li&gt;Relating microbiota data to human health&lt;/li&gt;

@@ -1,255 +1,249 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://silask.github.io/unused_widgets/skills/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/author/</loc>
+    <lastmod>2021-05-12T10:48:48+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/unused_widgets/experience/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/authors/</loc>
+    <lastmod>2021-05-12T10:48:48+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/unused_widgets/accomplishments/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/categories/</loc>
+    <lastmod>2021-05-12T10:48:48+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/unused_widgets/people/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/post/phd-thesis/</loc>
+    <lastmod>2021-05-12T10:48:48+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/publication_types/2/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/category/phd/</loc>
+    <lastmod>2021-05-12T10:48:48+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/tag/phd-thsis/</loc>
+    <lastmod>2021-05-12T10:48:48+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/publication/atlas/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/post/</loc>
+    <lastmod>2021-05-12T10:48:48+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/authors/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/</loc>
+    <lastmod>2021-05-12T10:48:48+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/categories/bioinformatics/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/tags/</loc>
+    <lastmod>2021-05-12T10:48:48+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/tags/bioinformatics/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/publication-type/2/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/categories/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/publication/atlas/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/authors/evgeny-m.-zdobnov/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/tag/bioinformatics/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/authors/joseph-brown/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/category/bioinformatics/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/authors/lee-ann-mccue/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/author/evgeny-m.-zdobnov/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/tags/metagenome/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/author/joseph-brown/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/tags/metagenome-atlas/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/author/lee-ann-mccue/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/authors/mirko-trajkovski/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/tag/metagenome/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/publication_types/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/tag/metagenome-atlas/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/authors/silas-kieser/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/author/mirko-trajkovski/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/tags/snakemake/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/publication_types/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/tags/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/publication/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/project/metagenome-atlas/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/author/silas-kieser/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/tags/metagenomics/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/tag/snakemake/</loc>
+    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/tags/programming/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/projects/metagenome-atlas/</loc>
+    <lastmod>2017-12-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/project/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/tag/metagenomics/</loc>
+    <lastmod>2017-12-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/authors/annick-mercenier/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/tag/programming/</loc>
+    <lastmod>2017-12-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/publication/nestlemd/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/projects/</loc>
+    <lastmod>2017-12-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/authors/bernard-berger/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/author/annick-mercenier/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/authors/bertrand-betrisey/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/publication/nestlemd/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/authors/coralie-fournier/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/author/bernard-berger/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/authors/francis-foata/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/author/bertrand-betrisey/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/authors/harald-brussow/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/author/coralie-fournier/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/categories/human-gut-microbiota/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/author/francis-foata/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/tags/human-gut-microbiota/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/author/harald-brussow/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/authors/mohammed-j.-chisti/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/tag/human-gut-microbiota/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/authors/nadine-porta/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/category/human-gut-microbiota/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/tags/nestle/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/author/mohammed-j.-chisti/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/authors/olga-sakwinska/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/author/nadine-porta/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/authors/patrick-descombes/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/tag/nestle/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/tags/phages/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/author/olga-sakwinska/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/authors/shafiqul-a.-sarker/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/author/patrick-descombes/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/authors/shamima-sultana/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/tag/phages/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/authors/shoeb-b.-islam/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/author/shafiqul-a.-sarker/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/project/apologetics/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/author/shamima-sultana/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/tags/apologetics/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/author/shoeb-b.-islam/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/project/nestle/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/projects/apologetics/</loc>
+    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/authors/admin/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/tag/apologetics/</loc>
+    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/post/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/projects/nestle/</loc>
+    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silask.github.io/publication/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/unused_widgets/</loc>
-    <lastmod>2020-01-05T20:31:44+01:00</lastmod>
+    <loc>https://silask.netlify.app/talk/</loc>
   </url>
   
 </urlset>
