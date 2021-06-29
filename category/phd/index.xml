@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PhD | Silas Kieser&#39;s academic page</title>
-    <link>https://silask.github.io/category/phd/</link>
-      <atom:link href="https://silask.github.io/category/phd/index.xml" rel="self" type="application/rss+xml" />
+    <title>PhD | Academic</title>
+    <link>/category/phd/</link>
+      <atom:link href="/category/phd/index.xml" rel="self" type="application/rss+xml" />
     <description>PhD</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Silas Kieser</copyright><lastBuildDate>Wed, 12 May 2021 10:48:48 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 May 2021 10:48:48 +0200</lastBuildDate>
     <image>
-      <url>https://silask.github.io/media/Tree.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>PhD</title>
-      <link>https://silask.github.io/category/phd/</link>
+      <link>/category/phd/</link>
     </image>
     
     <item>
       <title>It is finished!</title>
-      <link>https://silask.github.io/post/phd-thesis/</link>
+      <link>/post/phd-thesis/</link>
       <pubDate>Wed, 12 May 2021 10:48:48 +0200</pubDate>
-      <guid>https://silask.github.io/post/phd-thesis/</guid>
+      <guid>/post/phd-thesis/</guid>
       <description>&lt;p&gt;I finished writing my PhD Thesis with the title:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Computational approaches for a healthier microbiome&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;Thesis_Kieser_V1_with_line_numbers.pdf&#34;&gt;Here is the PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;Thesis_Kieser_V1_with_line_numbers.pdf&#34;&gt;Here is the PDF&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;If you have any comments please e-mail or write me. I&amp;rsquo;m happy to take them into account.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;TOC.png&#34; alt=&#34;TOC&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I made a small graphic how many words I wrote over time. The chapters consist mainly of the publications, therefore I didn&amp;rsquo;t took them into account.&lt;/p&gt;

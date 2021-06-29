@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>human gut microbiota | Silas Kieser&#39;s academic page</title>
-    <link>https://silask.github.io/tag/human-gut-microbiota/</link>
-      <atom:link href="https://silask.github.io/tag/human-gut-microbiota/index.xml" rel="self" type="application/rss+xml" />
+    <title>human gut microbiota | Academic</title>
+    <link>/tag/human-gut-microbiota/</link>
+      <atom:link href="/tag/human-gut-microbiota/index.xml" rel="self" type="application/rss+xml" />
     <description>human gut microbiota</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Silas Kieser</copyright><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://silask.github.io/media/Tree.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>human gut microbiota</title>
-      <link>https://silask.github.io/tag/human-gut-microbiota/</link>
+      <link>/tag/human-gut-microbiota/</link>
     </image>
     
     <item>
       <title>Antibiotic Treatment Leads to Fecal Escherichia coli and Coliphage Expansion in Severely Malnourished Diarrhea Patients</title>
-      <link>https://silask.github.io/publication/nestlemd/</link>
+      <link>/publication/nestlemd/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://silask.github.io/publication/nestlemd/</guid>
+      <guid>/publication/nestlemd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internship at Nestlé research</title>
-      <link>https://silask.github.io/projects/nestle/</link>
+      <link>/project/nestle/</link>
       <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://silask.github.io/projects/nestle/</guid>
+      <guid>/project/nestle/</guid>
       <description>&lt;p&gt;Nestlé Research Center
 Feb 2016 – Feb 2017&lt;/p&gt;
 &lt;p&gt;This Internship allowed me to learn from experts about children gut microbiota. My job was to build a analysis pipeline for metagenomics analysis.&lt;br&gt;

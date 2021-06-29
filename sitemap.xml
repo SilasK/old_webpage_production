@@ -1,249 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://silask.github.io/author/</loc>
+    <loc>/</loc>
     <lastmod>2021-05-12T10:48:48+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/authors/</loc>
+  </url><url>
+    <loc>/categories/</loc>
     <lastmod>2021-05-12T10:48:48+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/categories/</loc>
+  </url><url>
+    <loc>/post/phd-thesis/</loc>
     <lastmod>2021-05-12T10:48:48+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/post/phd-thesis/</loc>
+  </url><url>
+    <loc>/category/phd/</loc>
     <lastmod>2021-05-12T10:48:48+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/category/phd/</loc>
+  </url><url>
+    <loc>/tag/phd-thsis/</loc>
     <lastmod>2021-05-12T10:48:48+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/tag/phd-thsis/</loc>
+  </url><url>
+    <loc>/post/</loc>
     <lastmod>2021-05-12T10:48:48+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/post/</loc>
+  </url><url>
+    <loc>/tags/</loc>
     <lastmod>2021-05-12T10:48:48+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/</loc>
-    <lastmod>2021-05-12T10:48:48+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/tags/</loc>
-    <lastmod>2021-05-12T10:48:48+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/publication-type/2/</loc>
-    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/publication/atlas/</loc>
-    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/tag/bioinformatics/</loc>
-    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/category/bioinformatics/</loc>
-    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/author/evgeny-m.-zdobnov/</loc>
-    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/author/joseph-brown/</loc>
-    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/author/lee-ann-mccue/</loc>
-    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/tag/metagenome/</loc>
-    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/tag/metagenome-atlas/</loc>
-    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/author/mirko-trajkovski/</loc>
-    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/publication_types/</loc>
-    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/publication/</loc>
-    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/author/silas-kieser/</loc>
-    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/tag/snakemake/</loc>
-    <lastmod>2019-10-21T20:03:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/projects/metagenome-atlas/</loc>
+  </url><url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/warm/</loc>
+    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/metagenome-atlas/</loc>
     <lastmod>2017-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/tag/metagenomics/</loc>
+  </url><url>
+    <loc>/tag/metagenomics/</loc>
     <lastmod>2017-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/tag/programming/</loc>
+  </url><url>
+    <loc>/tag/programming/</loc>
     <lastmod>2017-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/projects/</loc>
+  </url><url>
+    <loc>/project/</loc>
     <lastmod>2017-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/author/annick-mercenier/</loc>
+  </url><url>
+    <loc>/tag/snakemake/</loc>
+    <lastmod>2017-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/nestlemd/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/publication/nestlemd/</loc>
+  </url><url>
+    <loc>/tag/human-gut-microbiota/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/author/bernard-berger/</loc>
+  </url><url>
+    <loc>/category/human-gut-microbiota/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/author/bertrand-betrisey/</loc>
+  </url><url>
+    <loc>/tag/nestle/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/author/coralie-fournier/</loc>
+  </url><url>
+    <loc>/tag/phages/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/author/francis-foata/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/author/harald-brussow/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/tag/human-gut-microbiota/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/category/human-gut-microbiota/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/author/mohammed-j.-chisti/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/author/nadine-porta/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/tag/nestle/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/author/olga-sakwinska/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/author/patrick-descombes/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/tag/phages/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/author/shafiqul-a.-sarker/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/author/shamima-sultana/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/author/shoeb-b.-islam/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/projects/apologetics/</loc>
+  </url><url>
+    <loc>/project/apologetics/</loc>
     <lastmod>2017-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/tag/apologetics/</loc>
+  </url><url>
+    <loc>/tag/apologetics/</loc>
     <lastmod>2017-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silask.github.io/projects/nestle/</loc>
+  </url><url>
+    <loc>/project/nestle/</loc>
     <lastmod>2017-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/admin/</loc>
   </url>
-  
-  <url>
-    <loc>https://silask.github.io/talk/</loc>
-  </url>
-  
 </urlset>
