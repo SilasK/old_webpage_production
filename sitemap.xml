@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2021-05-12T10:48:48+02:00</lastmod>
+    <lastmod>2021-07-07T23:24:14+02:00</lastmod>
+  </url><url>
+    <loc>/project/atlas/</loc>
+    <lastmod>2021-07-07T23:24:14+02:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2021-07-07T23:24:14+02:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
     <lastmod>2021-05-12T10:48:48+02:00</lastmod>
@@ -24,37 +30,52 @@
     <lastmod>2021-05-12T10:48:48+02:00</lastmod>
   </url><url>
     <loc>/publication-type/2/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/binning/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/cmgm/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/genome-resolved-metagenomics/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/metagenome-assembled-genomes/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/metagenome-atlas/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/metagenomics/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication_types/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/virus/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/warm/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/atlas/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/bioinformatics/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/snakemake/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/metagenome-atlas/</loc>
-    <lastmod>2017-12-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/metagenomics/</loc>
-    <lastmod>2017-12-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/programming/</loc>
-    <lastmod>2017-12-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/</loc>
-    <lastmod>2017-12-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/snakemake/</loc>
-    <lastmod>2017-12-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/nestlemd/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>

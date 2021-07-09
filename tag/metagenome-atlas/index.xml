@@ -1,22 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>metagenome-atlas | Silas Kieser&#39;s academic page</title>
-    <link>https://silask.github.io/tag/metagenome-atlas/</link>
-      <atom:link href="https://silask.github.io/tag/metagenome-atlas/index.xml" rel="self" type="application/rss+xml" />
+    <title>metagenome-atlas | Academic</title>
+    <link>/tag/metagenome-atlas/</link>
+      <atom:link href="/tag/metagenome-atlas/index.xml" rel="self" type="application/rss+xml" />
     <description>metagenome-atlas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Silas Kieser</copyright><lastBuildDate>Mon, 21 Oct 2019 20:03:06 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://silask.github.io/media/Tree.png</url>
+      <url>/media/icon_hu0144edc3649b1995b32e914262035870_346211_512x512_fill_lanczos_center_2.png</url>
       <title>metagenome-atlas</title>
-      <link>https://silask.github.io/tag/metagenome-atlas/</link>
+      <link>/tag/metagenome-atlas/</link>
     </image>
     
     <item>
+      <title>Comprehensive mouse gut metagenome catalogue reveals major difference to the human counterpart</title>
+      <link>/publication/cmgm/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/cmgm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ATLAS: a Snakemake workflow for assembly, annotation, and genomic binning of metagenome sequence data</title>
-      <link>https://silask.github.io/publication/atlas/</link>
-      <pubDate>Mon, 21 Oct 2019 20:03:06 +0200</pubDate>
-      <guid>https://silask.github.io/publication/atlas/</guid>
+      <link>/publication/atlas/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/atlas/</guid>
       <description></description>
     </item>
     

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>snakemake | Academic</title>
+    <title>Snakemake | Academic</title>
     <link>/tag/snakemake/</link>
       <atom:link href="/tag/snakemake/index.xml" rel="self" type="application/rss+xml" />
-    <description>snakemake</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 30 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <description>Snakemake</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu0144edc3649b1995b32e914262035870_346211_512x512_fill_lanczos_center_2.png</url>
-      <title>snakemake</title>
+      <title>Snakemake</title>
       <link>/tag/snakemake/</link>
     </image>
     
     <item>
-      <title>metagenome-atlas</title>
-      <link>/project/metagenome-atlas/</link>
-      <pubDate>Sat, 30 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/project/metagenome-atlas/</guid>
+      <title>ATLAS: a Snakemake workflow for assembly, annotation, and genomic binning of metagenome sequence data</title>
+      <link>/publication/atlas/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/atlas/</guid>
       <description></description>
     </item>
     
