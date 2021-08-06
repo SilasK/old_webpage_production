@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Events | Academic</title>
-    <link>/event/</link>
-      <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
+    <title>Events | S. Kieser</title>
+    <link>https://silask.github.io/event/</link>
+      <atom:link href="https://silask.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 Aug 2021 10:30:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Silas Kieser</copyright><lastBuildDate>Tue, 31 Aug 2021 10:30:00 +0200</lastBuildDate>
     <image>
-      <url>/media/icon_hu0144edc3649b1995b32e914262035870_346211_512x512_fill_lanczos_center_2.png</url>
+      <url>https://silask.github.io/media/icon_hu0144edc3649b1995b32e914262035870_346211_512x512_fill_lanczos_center_2.png</url>
       <title>Events</title>
-      <link>/event/</link>
+      <link>https://silask.github.io/event/</link>
     </image>
     
     <item>
       <title>My PhD defense</title>
-      <link>/talk/my-phd-defense/</link>
+      <link>https://silask.github.io/talk/my-phd-defense/</link>
       <pubDate>Tue, 31 Aug 2021 10:30:00 +0200</pubDate>
-      <guid>/talk/my-phd-defense/</guid>
+      <guid>https://silask.github.io/talk/my-phd-defense/</guid>
       <description>&lt;p&gt;I will soon graduate and defend my PhD thesis entitled &amp;ldquo;Computational Approaches for a Healthier Microbiome&amp;rdquo;.
 I would love you to be part of this event in one way or another.&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -123,7 +123,7 @@ In theory you should be able to leave or enter the room between the indicated ti
   
   &lt;span class=&#34;middot-divider&#34;&gt;&lt;/span&gt;
   &lt;span class=&#34;article-categories&#34;&gt;
-    &lt;i class=&#34;fas fa-folder mr-1&#34;&gt;&lt;/i&gt;&lt;a href=&#34;/category/phd/&#34;&gt;PhD&lt;/a&gt;&lt;/span&gt;
+    &lt;i class=&#34;fas fa-folder mr-1&#34;&gt;&lt;/i&gt;&lt;a href=&#34;https://silask.github.io/category/phd/&#34;&gt;PhD&lt;/a&gt;&lt;/span&gt;
   
 
 &lt;/div&gt;
@@ -134,17 +134,17 @@ In theory you should be able to leave or enter the room between the indicated ti
   
   
   
-  &lt;a href=&#34;/post/phd-thesis/&#34;&gt;
-    &lt;div class=&#34;img-hover-zoom&#34;&gt;&lt;img src=&#34;/post/phd-thesis/featured_hu7fc1720114ee19c1b29d09160308bd42_190089_808x455_fill_lanczos_smart1_2.png&#34; class=&#34;article-banner&#34; alt=&#34;It is finished!&#34; loading=&#34;lazy&#34;&gt;&lt;/div&gt;
+  &lt;a href=&#34;https://silask.github.io/post/phd-thesis/&#34;&gt;
+    &lt;div class=&#34;img-hover-zoom&#34;&gt;&lt;img src=&#34;https://silask.github.io/post/phd-thesis/featured_hu7fc1720114ee19c1b29d09160308bd42_190089_808x455_fill_lanczos_smart1_2.png&#34; class=&#34;article-banner&#34; alt=&#34;It is finished!&#34; loading=&#34;lazy&#34;&gt;&lt;/div&gt;
   &lt;/a&gt;
   
 
   &lt;div class=&#34;section-subheading article-title mb-1 mt-3&#34;&gt;
-    &lt;a href=&#34;/post/phd-thesis/&#34;&gt;It is finished!&lt;/a&gt;
+    &lt;a href=&#34;https://silask.github.io/post/phd-thesis/&#34;&gt;It is finished!&lt;/a&gt;
   &lt;/div&gt;
 
   
-  &lt;a href=&#34;/post/phd-thesis/&#34; class=&#34;summary-link&#34;&gt;
+  &lt;a href=&#34;https://silask.github.io/post/phd-thesis/&#34; class=&#34;summary-link&#34;&gt;
     &lt;div class=&#34;article-style&#34;&gt;
       &lt;p&gt;I finished writing my PhD Thesis with the title:
 Computational approaches for a healthier microbiome

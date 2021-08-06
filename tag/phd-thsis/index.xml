@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PhD thsis | Academic</title>
-    <link>/tag/phd-thsis/</link>
-      <atom:link href="/tag/phd-thsis/index.xml" rel="self" type="application/rss+xml" />
+    <title>PhD thsis | S. Kieser</title>
+    <link>https://silask.github.io/tag/phd-thsis/</link>
+      <atom:link href="https://silask.github.io/tag/phd-thsis/index.xml" rel="self" type="application/rss+xml" />
     <description>PhD thsis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 May 2021 10:48:48 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Silas Kieser</copyright><lastBuildDate>Wed, 12 May 2021 10:48:48 +0200</lastBuildDate>
     <image>
-      <url>/media/icon_hu0144edc3649b1995b32e914262035870_346211_512x512_fill_lanczos_center_2.png</url>
+      <url>https://silask.github.io/media/icon_hu0144edc3649b1995b32e914262035870_346211_512x512_fill_lanczos_center_2.png</url>
       <title>PhD thsis</title>
-      <link>/tag/phd-thsis/</link>
+      <link>https://silask.github.io/tag/phd-thsis/</link>
     </image>
     
     <item>
       <title>It is finished!</title>
-      <link>/post/phd-thesis/</link>
+      <link>https://silask.github.io/post/phd-thesis/</link>
       <pubDate>Wed, 12 May 2021 10:48:48 +0200</pubDate>
-      <guid>/post/phd-thesis/</guid>
+      <guid>https://silask.github.io/post/phd-thesis/</guid>
       <description>&lt;p&gt;I finished writing my PhD Thesis with the title:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Computational approaches for a healthier microbiome&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;You can peak inside &lt;a href=&#34;Thesis_Silas_Kieser.pdf&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Virus | Academic</title>
-    <link>/tag/virus/</link>
-      <atom:link href="/tag/virus/index.xml" rel="self" type="application/rss+xml" />
+    <title>Virus | S. Kieser</title>
+    <link>https://silask.github.io/tag/virus/</link>
+      <atom:link href="https://silask.github.io/tag/virus/index.xml" rel="self" type="application/rss+xml" />
     <description>Virus</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Silas Kieser</copyright><lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu0144edc3649b1995b32e914262035870_346211_512x512_fill_lanczos_center_2.png</url>
+      <url>https://silask.github.io/media/icon_hu0144edc3649b1995b32e914262035870_346211_512x512_fill_lanczos_center_2.png</url>
       <title>Virus</title>
-      <link>/tag/virus/</link>
+      <link>https://silask.github.io/tag/virus/</link>
     </image>
     
     <item>
       <title>Comprehensive mouse gut metagenome catalogue reveals major difference to the human counterpart</title>
-      <link>/publication/cmgm/</link>
+      <link>https://silask.github.io/publication/cmgm/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/cmgm/</guid>
+      <guid>https://silask.github.io/publication/cmgm/</guid>
       <description></description>
     </item>
     

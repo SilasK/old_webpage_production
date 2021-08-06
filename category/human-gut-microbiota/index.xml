@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>human gut microbiota | Academic</title>
-    <link>/category/human-gut-microbiota/</link>
-      <atom:link href="/category/human-gut-microbiota/index.xml" rel="self" type="application/rss+xml" />
+    <title>human gut microbiota | S. Kieser</title>
+    <link>https://silask.github.io/category/human-gut-microbiota/</link>
+      <atom:link href="https://silask.github.io/category/human-gut-microbiota/index.xml" rel="self" type="application/rss+xml" />
     <description>human gut microbiota</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Silas Kieser</copyright><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu0144edc3649b1995b32e914262035870_346211_512x512_fill_lanczos_center_2.png</url>
+      <url>https://silask.github.io/media/icon_hu0144edc3649b1995b32e914262035870_346211_512x512_fill_lanczos_center_2.png</url>
       <title>human gut microbiota</title>
-      <link>/category/human-gut-microbiota/</link>
+      <link>https://silask.github.io/category/human-gut-microbiota/</link>
     </image>
     
     <item>
       <title>Antibiotic Treatment Leads to Fecal Escherichia coli and Coliphage Expansion in Severely Malnourished Diarrhea Patients</title>
-      <link>/publication/nestlemd/</link>
+      <link>https://silask.github.io/publication/nestlemd/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/nestlemd/</guid>
+      <guid>https://silask.github.io/publication/nestlemd/</guid>
       <description></description>
     </item>
     

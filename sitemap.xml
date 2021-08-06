@@ -2,108 +2,108 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://silask.github.io/event/</loc>
     <lastmod>2021-08-31T10:30:00+02:00</lastmod>
   </url><url>
-    <loc>/event/</loc>
+    <loc>https://silask.github.io/talk/my-phd-defense/</loc>
     <lastmod>2021-08-31T10:30:00+02:00</lastmod>
   </url><url>
-    <loc>/talk/my-phd-defense/</loc>
+    <loc>https://silask.github.io/</loc>
     <lastmod>2021-08-31T10:30:00+02:00</lastmod>
   </url><url>
-    <loc>/project/atlas/</loc>
+    <loc>https://silask.github.io/project/atlas/</loc>
     <lastmod>2021-07-07T23:24:14+02:00</lastmod>
   </url><url>
-    <loc>/project/</loc>
+    <loc>https://silask.github.io/project/</loc>
     <lastmod>2021-07-07T23:24:14+02:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://silask.github.io/categories/</loc>
     <lastmod>2021-05-12T10:48:48+02:00</lastmod>
   </url><url>
-    <loc>/post/phd-thesis/</loc>
+    <loc>https://silask.github.io/post/phd-thesis/</loc>
     <lastmod>2021-05-12T10:48:48+02:00</lastmod>
   </url><url>
-    <loc>/category/phd/</loc>
+    <loc>https://silask.github.io/category/phd/</loc>
     <lastmod>2021-05-12T10:48:48+02:00</lastmod>
   </url><url>
-    <loc>/tag/phd-thsis/</loc>
+    <loc>https://silask.github.io/tag/phd-thsis/</loc>
     <lastmod>2021-05-12T10:48:48+02:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://silask.github.io/post/</loc>
     <lastmod>2021-05-12T10:48:48+02:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://silask.github.io/tags/</loc>
     <lastmod>2021-05-12T10:48:48+02:00</lastmod>
   </url><url>
-    <loc>/publication-type/2/</loc>
+    <loc>https://silask.github.io/publication-type/2/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/binning/</loc>
+    <loc>https://silask.github.io/tag/binning/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/cmgm/</loc>
+    <loc>https://silask.github.io/publication/cmgm/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/genome-resolved-metagenomics/</loc>
+    <loc>https://silask.github.io/tag/genome-resolved-metagenomics/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/metagenome-assembled-genomes/</loc>
+    <loc>https://silask.github.io/tag/metagenome-assembled-genomes/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/metagenome-atlas/</loc>
+    <loc>https://silask.github.io/tag/metagenome-atlas/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/metagenomics/</loc>
+    <loc>https://silask.github.io/tag/metagenomics/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
+    <loc>https://silask.github.io/publication_types/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/</loc>
+    <loc>https://silask.github.io/publication/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/virus/</loc>
+    <loc>https://silask.github.io/tag/virus/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/warm/</loc>
+    <loc>https://silask.github.io/publication/warm/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/atlas/</loc>
+    <loc>https://silask.github.io/publication/atlas/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/bioinformatics/</loc>
+    <loc>https://silask.github.io/tag/bioinformatics/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/snakemake/</loc>
+    <loc>https://silask.github.io/tag/snakemake/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/nestlead/</loc>
+    <loc>https://silask.github.io/publication/nestlead/</loc>
     <lastmod>2018-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/human-gut-microbiota/</loc>
+    <loc>https://silask.github.io/tag/human-gut-microbiota/</loc>
     <lastmod>2018-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/nestle/</loc>
+    <loc>https://silask.github.io/tag/nestle/</loc>
     <lastmod>2018-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/phages/</loc>
+    <loc>https://silask.github.io/tag/phages/</loc>
     <lastmod>2018-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/nestlemd/</loc>
+    <loc>https://silask.github.io/publication/nestlemd/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/category/human-gut-microbiota/</loc>
+    <loc>https://silask.github.io/category/human-gut-microbiota/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/apologetics/</loc>
+    <loc>https://silask.github.io/project/apologetics/</loc>
     <lastmod>2017-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/apologetics/</loc>
+    <loc>https://silask.github.io/tag/apologetics/</loc>
     <lastmod>2017-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/nestle/</loc>
+    <loc>https://silask.github.io/project/nestle/</loc>
     <lastmod>2017-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/admin/</loc>
+    <loc>https://silask.github.io/admin/</loc>
   </url>
 </urlset>

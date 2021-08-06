@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publications | S. Kieser</title>
+    <link>https://silask.github.io/publication/</link>
+      <atom:link href="https://silask.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Silas Kieser</copyright><lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu0144edc3649b1995b32e914262035870_346211_512x512_fill_lanczos_center_2.png</url>
+      <url>https://silask.github.io/media/icon_hu0144edc3649b1995b32e914262035870_346211_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>https://silask.github.io/publication/</link>
     </image>
     
     <item>
       <title>Comprehensive mouse gut metagenome catalogue reveals major difference to the human counterpart</title>
-      <link>/publication/cmgm/</link>
+      <link>https://silask.github.io/publication/cmgm/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/cmgm/</guid>
+      <guid>https://silask.github.io/publication/cmgm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Warmth Prevents Bone Loss Through the Gut Microbiota</title>
-      <link>/publication/warm/</link>
+      <link>https://silask.github.io/publication/warm/</link>
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/warm/</guid>
+      <guid>https://silask.github.io/publication/warm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ATLAS: a Snakemake workflow for assembly, annotation, and genomic binning of metagenome sequence data</title>
-      <link>/publication/atlas/</link>
+      <link>https://silask.github.io/publication/atlas/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/atlas/</guid>
+      <guid>https://silask.github.io/publication/atlas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bangladeshi children with acute diarrhoea show faecal microbiomes with increased Streptococcus abundance, irrespective of diarrhoea aetiology</title>
-      <link>/publication/nestlead/</link>
+      <link>https://silask.github.io/publication/nestlead/</link>
       <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/nestlead/</guid>
+      <guid>https://silask.github.io/publication/nestlead/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Antibiotic Treatment Leads to Fecal Escherichia coli and Coliphage Expansion in Severely Malnourished Diarrhea Patients</title>
-      <link>/publication/nestlemd/</link>
+      <link>https://silask.github.io/publication/nestlemd/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/nestlemd/</guid>
+      <guid>https://silask.github.io/publication/nestlemd/</guid>
       <description></description>
     </item>
     
