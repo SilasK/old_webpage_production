@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>S. Kieser</title>
-    <link>https://silask.github.io/</link>
-      <atom:link href="https://silask.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>S. Kieser</description>
+    <title>PhD | S. Kieser</title>
+    <link>https://silask.github.io/tag/phd/</link>
+      <atom:link href="https://silask.github.io/tag/phd/index.xml" rel="self" type="application/rss+xml" />
+    <description>PhD</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Silas Kieser</copyright><lastBuildDate>Fri, 03 Sep 2021 16:30:00 +0200</lastBuildDate>
     <image>
       <url>https://silask.github.io/media/icon_hu0144edc3649b1995b32e914262035870_346211_512x512_fill_lanczos_center_2.png</url>
-      <title>S. Kieser</title>
-      <link>https://silask.github.io/</link>
+      <title>PhD</title>
+      <link>https://silask.github.io/tag/phd/</link>
     </image>
     
     <item>
@@ -171,104 +171,6 @@ I made a small graphic how many words I wrote over time.&lt;/p&gt;
 
 
 </description>
-    </item>
-    
-    <item>
-      <title>Metagenome-atlas</title>
-      <link>https://silask.github.io/project/atlas/</link>
-      <pubDate>Wed, 07 Jul 2021 23:24:14 +0200</pubDate>
-      <guid>https://silask.github.io/project/atlas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>It is finished!</title>
-      <link>https://silask.github.io/post/phd-thesis/</link>
-      <pubDate>Wed, 12 May 2021 10:48:48 +0200</pubDate>
-      <guid>https://silask.github.io/post/phd-thesis/</guid>
-      <description>&lt;p&gt;I finished writing my PhD Thesis with the title:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Computational approaches for a healthier microbiome&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;You can peak inside &lt;a href=&#34;Thesis_Silas_Kieser.pdf&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;TOC.png&#34; alt=&#34;TOC&#34;&gt;&lt;/p&gt;
-&lt;p&gt;I made a small graphic how many words I wrote over time. The chapters consist mainly of the publications, therefore I didn&amp;rsquo;t took them into account.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Wordcounts.png&#34; alt=&#34;Words over time&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Comprehensive mouse gut metagenome catalogue reveals major difference to the human counterpart</title>
-      <link>https://silask.github.io/publication/cmgm/</link>
-      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://silask.github.io/publication/cmgm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Warmth Prevents Bone Loss Through the Gut Microbiota</title>
-      <link>https://silask.github.io/publication/warm/</link>
-      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://silask.github.io/publication/warm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ATLAS: a Snakemake workflow for assembly, annotation, and genomic binning of metagenome sequence data</title>
-      <link>https://silask.github.io/publication/atlas/</link>
-      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://silask.github.io/publication/atlas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bangladeshi children with acute diarrhoea show faecal microbiomes with increased Streptococcus abundance, irrespective of diarrhoea aetiology</title>
-      <link>https://silask.github.io/publication/nestlead/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://silask.github.io/publication/nestlead/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Antibiotic Treatment Leads to Fecal Escherichia coli and Coliphage Expansion in Severely Malnourished Diarrhea Patients</title>
-      <link>https://silask.github.io/publication/nestlemd/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://silask.github.io/publication/nestlemd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Apologetics</title>
-      <link>https://silask.github.io/project/apologetics/</link>
-      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://silask.github.io/project/apologetics/</guid>
-      <description>&lt;!-- http://www.gbeu.ch/fileadmin/user_upload/dateien/Dialogue_et_Verite/Lemaitre_Silas_Kieser__2_.pdf
---&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Internship at Nestlé research</title>
-      <link>https://silask.github.io/project/nestle/</link>
-      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://silask.github.io/project/nestle/</guid>
-      <description>&lt;p&gt;Nestlé Research Center
-Feb 2016 – Feb 2017&lt;/p&gt;
-&lt;p&gt;This Internship allowed me to learn from experts about children gut microbiota. My job was to build a analysis pipeline for metagenomics analysis.&lt;br&gt;
-I&amp;rsquo;d like to thank especially Bernard Berger, Olga Sakwinska and Harald Brüssow for their supervision.&lt;/p&gt;
-&lt;p&gt;Achievements:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Implementation of metagenomics analysis pipeline&lt;/li&gt;
-&lt;li&gt;Relating microbiota data to human health&lt;/li&gt;
-&lt;li&gt;First publication&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://silask.github.io/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://silask.github.io/admin/config.yml</guid>
-      <description></description>
     </item>
     
   </channel>
