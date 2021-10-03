@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>S. Kieser</title>
+    <title>Dr. Kieser</title>
     <link>https://silask.github.io/</link>
       <atom:link href="https://silask.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>S. Kieser</description>
+    <description>Dr. Kieser</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Silas Kieser</copyright><lastBuildDate>Fri, 03 Sep 2021 22:50:40 +0200</lastBuildDate>
     <image>
       <url>https://silask.github.io/media/icon_hu0144edc3649b1995b32e914262035870_346211_512x512_fill_lanczos_center_2.png</url>
-      <title>S. Kieser</title>
+      <title>Dr. Kieser</title>
       <link>https://silask.github.io/</link>
     </image>
     
