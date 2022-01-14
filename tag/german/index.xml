@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Dr. Kieser</title>
-    <link>https://silask.github.io/post/</link>
-      <atom:link href="https://silask.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
+    <title>german | Dr. Kieser</title>
+    <link>https://silask.github.io/tag/german/</link>
+      <atom:link href="https://silask.github.io/tag/german/index.xml" rel="self" type="application/rss+xml" />
+    <description>german</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Silas Kieser</copyright><lastBuildDate>Fri, 14 Jan 2022 17:52:00 +0100</lastBuildDate>
     <image>
       <url>https://silask.github.io/media/icon_hu0144edc3649b1995b32e914262035870_346211_512x512_fill_lanczos_center_2.png</url>
-      <title>Posts</title>
-      <link>https://silask.github.io/post/</link>
+      <title>german</title>
+      <link>https://silask.github.io/tag/german/</link>
     </image>
     
     <item>
@@ -48,20 +48,6 @@ So wie es aussieht ist der Abstand, zwischen 1. &amp;amp; 2. Dosis der Corona Im
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>It is finished!</title>
-      <link>https://silask.github.io/post/phd-thesis/</link>
-      <pubDate>Wed, 12 May 2021 10:48:48 +0200</pubDate>
-      <guid>https://silask.github.io/post/phd-thesis/</guid>
-      <description>&lt;p&gt;I finished writing my PhD Thesis with the title:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Computational approaches for a healthier microbiome&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;You can peak inside &lt;a href=&#34;Thesis_Silas_Kieser.pdf&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;TOC.png&#34; alt=&#34;TOC&#34;&gt;&lt;/p&gt;
-&lt;p&gt;I made a small graphic how many words I wrote over time. The chapters consist mainly of the publications, therefore I didn&amp;rsquo;t took them into account.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Wordcounts.png&#34; alt=&#34;Words over time&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
