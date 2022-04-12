@@ -330,16 +330,15 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary" />
+  <meta property="twitter:card" content="summary_large_image" />
   
   <meta property="og:site_name" content="Dr. Kieser" />
   <meta property="og:url" content="https://silask.github.io/post/better_genomes/" />
   <meta property="og:title" content="3 ways to improve genome catalogs | Dr. Kieser" />
-  <meta property="og:description" content="Metagenomics has revoluzionized microbiology. This sequencing technology enables researchers to gain insight into the composition and functional potential of a microbial community in situ. Even though it is called metagenomics, the sequenced reads were not analyzed on a genome level due to technical limitations, especially the lack of reference genomes for many microbiomes." /><meta property="og:image" content="https://silask.github.io/media/icon_hu0144edc3649b1995b32e914262035870_346211_512x512_fill_lanczos_center_2.png" />
-    <meta property="twitter:image" content="https://silask.github.io/media/icon_hu0144edc3649b1995b32e914262035870_346211_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="Metagenomics has revoluzionized microbiology. This sequencing technology enables researchers to gain insight into the composition and functional potential of a microbial community in situ. Even though it is called metagenomics, the sequenced reads were not analyzed on a genome level due to technical limitations, especially the lack of reference genomes for many microbiomes." /><meta property="og:image" content="https://silask.github.io/post/better_genomes/featured.png" />
+    <meta property="twitter:image" content="https://silask.github.io/post/better_genomes/featured.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -374,6 +373,10 @@
     "@id": "https://silask.github.io/post/better_genomes/"
   },
   "headline": "3 ways to improve genome catalogs",
+  
+  "image": [
+    "https://silask.github.io/post/better_genomes/featured.png"
+  ],
   
   "datePublished": "2022-04-12T00:24:00+01:00",
   "dateModified": "2022-04-12T00:00:00+01:00",
@@ -708,18 +711,26 @@
 
 
 
-  
+
+
+
+
+
+
+
 
   
   
+    
   
+
+
 <div class="article-container pt-3">
   <h1>3 ways to improve genome catalogs</h1>
 
   
 
   
-    
 
 
 <div class="article-metadata">
@@ -755,13 +766,20 @@
 
 </div>
 
-    
-
-
-
-
-
   
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 540px;">
+  <div style="position: relative">
+    <img src="/post/better_genomes/featured_huf6e69e06e7d3b2fae680a9a72cfcf02f_198010_720x0_resize_lanczos_2.png" alt="" class="featured-image">
+    
+  </div>
 </div>
 
 
@@ -783,7 +801,7 @@
 <li>Bin the contigs from each sample separately, but use the differential abundance from all samples.</li>
 </ol>
 <p>This strategy more or less combines the advantages of the other binning strategy. It doesn&rsquo;t require co-assembly and allows for the use of differential abundance and scales to many samples (~100). This strategy is implemented in the two tools <a href="https://doi.org/10.1038/s41587-020-00777-4" target="_blank" rel="noopener"><em>Vamb</em></a> and <a href="https://doi.org/10.1038/s41587-020-00777-4" target="_blank" rel="noopener"><em>SemiBin</em></a>. The authors of Vamb also claim that it can disentangle genomes from different subspecies up to 97% ANI, which I find pretty interesting. SemiBin uses not only the abundance but also the taxonomic annotation. Both binners could, in theory, also be used for Eukaryote binning. The only adaptation to SemiBin would be to use a taxonomic annotation that includes Eukaryotes.</p>
-<p>So, If you plan to recover many genomes from metagenomes, think about trying out these new binners. I already implemented both binners in metagenome-atlas.</p>
+<p>So, If you plan to recover many genomes from metagenomes, think about trying out these new binners. I already implemented both binners in <a href="/publication/atlas/">metagenome-atlas</a>.</p>
 <h1 id="2-optimize-quality-estimation">2. Optimize quality estimation</h1>
 <p>The second step comes after realizing that the MAGs are not as good as we think  &ndash; even the &lsquo;high-quality&rsquo;. The part has to do with the fact that MAGs are just of lousy quality due to limitations of the computational pipelines. Manual curation is needed (Chen <em>et al.</em> 2020).
 But part has to do with the quality estimators telling us they are of good quality when reality, they are not.</p>
@@ -827,6 +845,9 @@ But part has to do with the quality estimators telling us they are of good quali
 <p>The ad-hoc quality estimation doesn&rsquo;t help with contamination. But recently, new tools came out that check if genomes are chimeric — for example, <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02393-0" target="_blank" rel="noopener">GUNC</a> or <a href="https://github.com/dib-lab/charcoal" target="_blank" rel="noopener">Charcoal</a>. Taxonomically annotating contigs allows identifying contigs with incongruent taxonomy, aka chimera. This strategy is reference-based, but it provides filtering with a much broader scope than only looking at the marker genes.</p>
 <p>Finally, with more and more genome catalogs out there, I think the question becomes more crucial about efficiently using them. We choose <strong>1</strong> genome per species as a reference, which we use to map reads against it or build a Kraken DB. This approach glosses over much of the strain variation already contained in the genome collections. In some publications, the authors make Kraken DBS with many genomes per species, which increases the mapping rate overall, but when estimated on the species level, it&rsquo;s lower (Nasko <em>et al.</em> 2018).</p>
 <p>I could write more, but I leave it there for my first blog on metagenomics. Please reply to the Tweet below or mail me if you have comments and discussions.</p>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My first blog post about ways to improve current  genomes catalogs for metagenomics <a href="https://t.co/bBtM2DbUms">https://t.co/bBtM2DbUms</a></p>&mdash; Dr. Silas Kieser (@SilasKieser) <a href="https://twitter.com/SilasKieser/status/1513809109686042628?ref_src=twsrc%5Etfw">April 12, 2022</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
