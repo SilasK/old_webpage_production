@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://silask.github.io/post/better_genomes/</loc>
+    <lastmod>2022-04-12T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>https://silask.github.io/</loc>
-    <lastmod>2022-04-07T10:30:00+01:00</lastmod>
+    <lastmod>2022-04-12T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://silask.github.io/post/</loc>
+    <lastmod>2022-04-12T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://silask.github.io/event/</loc>
     <lastmod>2022-04-07T10:30:00+01:00</lastmod>
@@ -54,9 +60,6 @@
     <lastmod>2022-01-17T09:52:00+01:00</lastmod>
   </url><url>
     <loc>https://silask.github.io/tag/deutsch/</loc>
-    <lastmod>2022-01-17T09:52:00+01:00</lastmod>
-  </url><url>
-    <loc>https://silask.github.io/post/</loc>
     <lastmod>2022-01-17T09:52:00+01:00</lastmod>
   </url><url>
     <loc>https://silask.github.io/talk/3-day-course-on-metagenome-atlas/</loc>
