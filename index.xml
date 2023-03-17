@@ -5,7 +5,7 @@
     <link>https://silask.github.io/</link>
       <atom:link href="https://silask.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Kieser</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Silas Kieser</copyright><lastBuildDate>Tue, 12 Apr 2022 00:24:00 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Silas Kieser</copyright><lastBuildDate>Tue, 12 Apr 2022 00:24:00 +0100</lastBuildDate>
     <image>
       <url>https://silask.github.io/media/icon_hu0144edc3649b1995b32e914262035870_346211_512x512_fill_lanczos_center_2.png</url>
       <title>Dr. Kieser</title>
@@ -75,7 +75,7 @@ But part has to do with the quality estimators telling us they are of good quali
 &lt;p&gt;The ad-hoc quality estimation doesn&amp;rsquo;t help with contamination. But recently, new tools came out that check if genomes are chimeric — for example, &lt;a href=&#34;https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02393-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GUNC&lt;/a&gt; or &lt;a href=&#34;https://github.com/dib-lab/charcoal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Charcoal&lt;/a&gt;. Taxonomically annotating contigs allows identifying contigs with incongruent taxonomy, aka chimera. This strategy is reference-based, but it provides filtering with a much broader scope than only looking at the marker genes.&lt;/p&gt;
 &lt;p&gt;Finally, with more and more genome catalogs out there, I think the question becomes more crucial about efficiently using them. We choose &lt;strong&gt;1&lt;/strong&gt; genome per species as a reference, which we use to map reads against it or build a Kraken DB. This approach glosses over much of the strain variation already contained in the genome collections. In some publications, the authors make Kraken DBS with many genomes per species, which increases the mapping rate overall, but when estimated on the species level, it&amp;rsquo;s lower (Nasko &lt;em&gt;et al.&lt;/em&gt; 2018).&lt;/p&gt;
 &lt;p&gt;I could write more, but I leave it there for my first blog on metagenomics. Please reply to the Tweet below or mail me if you have comments and discussions.&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;My first blog post about ways to improve current  genomes catalogs for metagenomics &lt;a href=&#34;https://t.co/bBtM2DbUms&#34;&gt;https://t.co/bBtM2DbUms&lt;/a&gt;&lt;/p&gt;&amp;mdash; Dr. Silas Kieser (@SilasKieser) &lt;a href=&#34;https://twitter.com/SilasKieser/status/1513809109686042628?ref_src=twsrc%5Etfw&#34;&gt;April 12, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;My first blog post about ways to improve current  genomes catalogs for metagenomics &lt;a href=&#34;https://t.co/bBtM2DbUms&#34;&gt;https://t.co/bBtM2DbUms&lt;/a&gt;&lt;/p&gt;&amp;mdash; Dr. Silas Kieser @silask@mstdn.science (@SilasKieser) &lt;a href=&#34;https://twitter.com/SilasKieser/status/1513809109686042628?ref_src=twsrc%5Etfw&#34;&gt;April 12, 2022&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
